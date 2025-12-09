@@ -1,0 +1,192 @@
+30 Maalmood – Barashada Skills-ka Aasaasiga ah ee Data Analyst
+✅ WEEK 1: Excel (Foundation-ka Data Analysis)
+Day 1 – Hordhac Excel
+
+Interface
+
+Cells, Rows, Columns
+
+Worksheet vs Workbook
+
+Basic navigation
+📌 Practice: Create simple table
+
+Day 2 – Formulas Aasaasi ah
+
+SUM, AVERAGE, MIN, MAX
+📌 Practice: Calculate totals & averages
+
+Day 3 – Formulas Advanced
+
+IF
+
+Nested IF
+📌 Practice: Grade calculator samee
+
+Day 4 – Lookup Functions
+
+VLOOKUP
+
+HLOOKUP
+📌 Practice: Product price lookup samee
+
+Day 5 – INDEX + MATCH
+
+📌 Practice: Create advanced search table
+
+Day 6 – Data Cleaning
+
+Remove duplicates
+
+Text to Columns
+
+TRIM, CLEAN, UPPER, LOWER
+📌 Practice: Clean messy dataset
+
+Day 7 – Pivot Tables + Charts
+
+📌 Practice: Create Sales Dashboard (simple)
+
+✅ WEEK 2: SQL (Database Querying)
+Day 8 – Intro to SQL
+
+What is SQL
+
+SELECT *
+📌 Practice: Retrieve all data
+
+Day 9 – Filtering
+
+WHERE
+
+Operators (=, <, >, LIKE)
+📌 Practice: Filter customers by city
+
+Day 10 – Sorting
+
+ORDER BY
+📌 Practice: Highest sales → lowest
+
+Day 11 – Aggregation
+
+COUNT, SUM, AVG, MAX, MIN
+📌 Practice: Total sales per region
+
+Day 12 – GROUP BY
+
+📌 Practice: Sales grouped by category
+
+Day 13 – JOINS
+
+INNER, LEFT, RIGHT
+📌 Practice: Join customers + orders tables
+
+Day 14 – Subqueries
+
+📌 Practice: Top 5 customers by revenue
+
+✅ WEEK 3: Python (Pandas + Visualization)
+Day 15 – Python Intro
+
+Install Anaconda
+
+Jupyter Notebook
+
+Variables & Lists
+📌 Practice: Simple operations
+
+Day 16 – Pandas Basics
+
+Read CSV
+
+head(), tail()
+
+describe()
+📌 Practice: Explore dataset
+
+Day 17 – Data Cleaning
+
+dropna
+
+fillna
+
+duplicates
+📌 Practice: Clean dataset
+
+Day 18 – Data Transformation
+
+groupby
+
+merge
+
+sort_values
+📌 Practice: Sales grouped analysis
+
+Day 19 – Visualization
+
+Matplotlib
+
+Seaborn
+📌 Practice: Bar chart + line chart
+
+Day 20 – EDA (Exploratory Data Analysis)
+
+📌 Practice: Full EDA on a dataset (Kaggle)
+
+Day 21 – Basic Machine Learning (Optional)
+
+Train/test split
+
+Linear Regression
+📌 Practice: Predict sales
+
+✅ WEEK 4: Power BI + Statistics + Mini Projects
+Day 22 – Power BI Intro
+
+Import data
+
+Interface
+📌 Practice: Load dataset
+
+Day 23 – Data Modeling
+
+Relationships
+📌 Practice: Connect sales tables
+
+Day 24 – Visualization Basics
+
+📌 Practice: Create 4 visuals
+
+Day 25 – Power BI Dashboard
+
+📌 Practice: Create Final Dashboard
+
+📊 Statistics Basics
+Day 26 – Descriptive Stats
+
+Mean, Median, Mode
+
+Variance, Std dev
+
+Day 27 – Correlation
+
+📌 Practice: Correlation matrix
+
+Day 28 – Probability Basics
+
+Events
+
+Independent vs dependent variables
+
+🚀 Final Mini Projects
+Day 29 – Excel Project
+
+Create full dashboard
+
+Day 30 – Python/SQL/Power BI Project
+
+Choose one dataset
+
+Do cleaning + analysis
+
+Present results
